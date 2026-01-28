@@ -52,9 +52,9 @@ You can find images of the dashboards in the `Output` directory of this reposito
 ![Summary Dashboard](https://github.com/Sakshibagul11/Bank-Loan-Analysis/blob/main/summary.jpg)
 
 #### Overview Dashboard
-![Overview Dashboard](https://github.com/Sakshibagul11/Bank-Loan-Analysis/blob/main/Overview.jpg)
+![Overview Dashboard](https://github.com/Sakshibagul11/Bank-Loan-Analysis/blob/main/overview.jpg)
 
 #### Details Dashboard
-![Details Dashboard](https://github.com/Sakshibagul11/Bank-Loan-Analysis/blob/main/Details.jpg)
+![Details Dashboard](https://github.com/Sakshibagul11/Bank-Loan-Analysis/blob/main/details.jpg)
 
 
