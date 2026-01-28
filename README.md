@@ -1,12 +1,12 @@
-# Bank Loan Analysis Power BI Project
+# 📊💰 Bank Loan Analysis Power BI Project
 
 Welcome to the Bank Loan Analysis Power BI project repository! This project aims to provide insightful analysis and visualization of bank loan data using Power BI.
 
-## Overview
+## 💼 Overview
 
 This Power BI project analyzes various aspects of bank loans to provide valuable insights for decision-making. It comprises three main dashboards: Summary, Overview, and Details.
 
-### Dashboard 1: Summary
+### 📊 Dashboard 1: Summary
 
 #### Key Performance Indicators (KPIs) Requirements:
 
@@ -20,7 +20,7 @@ This Power BI project analyzes various aspects of bank loans to provide valuable
 
 **Loan Status Grid View:** Gain a comprehensive overview of lending operations and monitor loan performance categorized by 'Loan Status'. This grid view provides insights into metrics such as Total Loan Applications, Total Funded Amount, Total Amount Received, MTD Funded Amount, MTD Amount Received, Average Interest Rate, and Average DTI.
 
-### Dashboard 2: Overview
+### 📊Dashboard 2: Overview
 
 1. **Monthly Trends by Issue Date (Line Chart):** Identify seasonality and long-term trends in lending activities.
 2. **Regional Analysis by State (Filled Map):** Identify regions with significant lending activity and assess regional disparities.
@@ -44,7 +44,7 @@ The bank loan analysis dataset comprises essential fields such as Loan ID, Addre
 The Details Dashboard streamlines access to critical loan data, facilitating informed decision-making, enhancing operational efficiency, optimizing lending strategies, mitigating risks, and maximizing overall performance.
 
 
-### Adding Images
+### 📊 Adding Images
 
 You can find images of the dashboards in the `Output` directory of this repository.
 
@@ -57,6 +57,4 @@ You can find images of the dashboards in the `Output` directory of this reposito
 #### Details Dashboard
 ![Details Dashboard](https://github.com/Sakshibagul11/Bank-Loan-Analysis/blob/main/Details.jpg)
 
-### Contributing
 
-Contributions to enhance the analysis or add new features are welcome! If you have any suggestions, ideas, or bug fixes, feel free to open an issue or submit a pull request.
